@@ -1,0 +1,28 @@
+2026-01-15 15:44:54,001 - root - INFO - Logging initialized. Log file: Demo_Output/WT_PTC/WT_PTC/logs/WT_PTC_20260115_154454.log
+2026-01-15 15:44:54,001 - root - INFO - === Developed by Harshil Sanghvi for Shrestha Lab ===
+2026-01-15 15:44:54,001 - root - INFO - Starting processing for experiment: WT_PTC
+2026-01-15 15:44:54,208 - root - INFO - Processing file: Freeze_training.csv
+2026-01-15 15:44:54,218 - root - INFO - Trying to read Demo_Data/PTC/WT_PTC/20250908 WT_PTC CT1 PTC/Freeze_training.csv with encoding: ascii
+2026-01-15 15:44:54,239 - root - INFO - Processing experiment type: Freeze_training
+2026-01-15 15:44:54,239 - root - INFO - Processing 6 animals
+2026-01-15 15:44:54,608 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C507/Freeze_training.png'
+2026-01-15 15:44:54,793 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C509/Freeze_training.png'
+2026-01-15 15:44:54,966 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C511/Freeze_training.png'
+2026-01-15 15:44:55,142 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C576/Freeze_training.png'
+2026-01-15 15:44:55,318 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C549/Freeze_training.png'
+2026-01-15 15:44:55,494 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C550/Freeze_training.png'
+2026-01-15 15:44:55,494 - root - INFO - Processing file: Freeze_LTM28d.csv
+2026-01-15 15:44:55,507 - root - INFO - Trying to read Demo_Data/PTC/WT_PTC/20250908 WT_PTC CT1 PTC/Freeze_LTM28d.csv with encoding: ascii
+2026-01-15 15:44:55,519 - root - INFO - Processing experiment type: Freeze_LTM28d
+2026-01-15 15:44:55,519 - root - INFO - Processing 6 animals
+2026-01-15 15:44:55,689 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C507/Freeze_LTM28d.png'
+2026-01-15 15:44:55,867 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C509/Freeze_LTM28d.png'
+2026-01-15 15:44:56,046 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C511/Freeze_LTM28d.png'
+2026-01-15 15:44:56,223 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C549/Freeze_LTM28d.png'
+2026-01-15 15:44:56,403 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C550/Freeze_LTM28d.png'
+2026-01-15 15:44:56,573 - root - INFO - Saved heatmap to '.../WT_PTC/WT_PTC/WT PTC | RcLTM_CtxB | RmLTM_CtxC/C576/Freeze_LTM28d.png'
+2026-01-15 15:44:56,573 - root - INFO - Processing completed for experiment: WT_PTC
+2026-01-15 15:44:56,573 - root - INFO - Cleaning up empty directories...
+2026-01-15 15:44:56,574 - root - INFO - Cleanup completed.
+2026-01-15 15:44:56,574 - root - INFO - Successfully processed: WT_PTC
+2026-01-15 15:44:56,574 - root - INFO - Processing complete. Success: 1, Errors: 0
